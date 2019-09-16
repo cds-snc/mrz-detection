@@ -36,7 +36,7 @@
     "eslint-config-cheminfo": "^1.18.0",
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jest": "^21.18.0",
-    "jest": "^23.4.1",
+    "jest": "^25.0.0",
     "make-promises-safe": "^1.1.0",
     "npm-run-all": "^4.1.2",
     "papaparse": "^4.5.0",
